@@ -1,6 +1,9 @@
 ---
 title: Features
 body_classes: modular
+featherlight:
+  enabled: true
+  active: true
 content:
     items: '@self.modular'
     order:
